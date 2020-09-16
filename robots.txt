@@ -1,0 +1,6 @@
+User-agent:*
+Allow: /
+Disallow: /index.html
+Disallow: /www.main-ip.ru
+sitemap: http://kupitsigaretideshevo.ru/sitemap.xml
+Host: http://kupitsigaretideshevo.ru

@@ -1,0 +1,1612 @@
+.headerbackground{
+
+	background: url(../img/headerbackground.png) 100% repeat-x;
+
+	height: 180px;
+
+	position: relative;
+
+	padding-left: 0px !important;
+
+	padding-right: 0px !important;
+
+}
+
+
+
+.logo{
+
+	margin-top:70px;
+
+}
+
+.prodano{
+
+	position: relative;
+
+	margin-left: 40px;
+
+	margin-top: 60px;
+
+	width: 245px;
+
+	height: 108px;
+
+	background: url(../img/prodano.png);
+
+}
+
+.schet{
+
+	left: 90px;
+
+	top: 70px;
+
+	position: absolute;
+
+}
+
+.schet p{
+
+	font-size: 25px;
+
+}
+
+.zvonok{
+
+	position: relative;
+
+	margin-top: 20px;
+
+	margin-left:105px !important;
+
+	width: 238px !important;
+
+	height: 156px;
+
+	background: url(../img/zvonok.png);
+
+}
+
+.knopkazvonok{
+
+	background: url(../img/knopkazvonok.png);
+
+	left: 14px;
+
+	top: 60px;
+
+	width: 222px;
+
+	position: absolute;
+
+	height: 45px;
+
+
+
+}
+
+.knopkazvonok:hover{
+
+	background: url(../img/knopkazvonoka.png);
+
+}
+
+
+
+.woody{
+
+	width: 320px;
+
+	height:100px;
+
+	background: url(../img/logo.png);
+
+}
+
+.line1{
+
+	top: 179px;
+
+	width: 1000px;
+
+	height: 1px;
+
+	position: absolute;
+
+	background: url(../img/line1.png);
+
+}
+
+.backgroundpres{
+
+	position: relative;
+
+	height: 700px;
+
+	background: url(../img/presentbck.png) repeat-x center center fixed;
+
+	-webkit-background-size: cover;
+
+	-moz-background-size: cover;
+
+	-o-background-size: cover;
+
+	background-size: cover;
+
+	padding-left: 0px;
+
+	padding-right: 0px;
+
+}
+
+.kubleft{
+
+	position: absolute;
+
+	top: 100px;
+
+	background: url(../img/kubleft.png) 0px 0 no-repeat;
+
+	height:308px;
+
+	width: 480px;
+
+	left: -397px;
+
+}
+
+
+
+.block_homyak{
+
+	width:960px;
+
+	margin: auto;
+
+	position: relative;
+
+}
+
+
+
+.kubright{
+
+	float: left;
+
+	position: absolute;
+
+	top: 100px;
+
+	background: url(../img/kubright.png) 0 0% no-repeat;
+
+	height:308px;
+
+	right: -450px;
+
+	width: 485px;
+
+}
+
+.homyak{
+
+	width: 670px !important;
+
+	margin-left: -63px!important;
+
+} 
+
+.kupihom{
+
+	position: relative;
+
+	margin-top: 20px;
+
+	height: 460px;
+
+	background: url(../img/kupihom.png) 50% 0% no-repeat;
+
+}
+
+.akcia{
+
+	margin-left: 15px;
+
+	height: 600px;
+
+	margin-top: 20px;
+
+	background: url(../img/akcia.png) 50% 0 no-repeat;
+
+}
+
+.rightside{
+
+	position: relative;
+
+	margin-left: 18px !important;
+
+	width: 335px;
+
+}
+
+.dostavka{
+
+	position: relative;
+
+	margin-top: -10px;
+
+	height: 160px;
+
+	background: url(../img/dostavka.png) 100% 0 no-repeat;
+
+}
+
+.navbar{
+
+	margin-bottom: 0px;
+
+}
+
+.navbar-inner{
+
+	border: 1px;
+
+	background: url(../img/menuback.png) no-repeat 7px 5px;
+
+	height: 70px;
+
+	margin-bottom: 0px;
+
+}
+
+.nav{
+
+	margin-top: 13px !important;
+
+}
+
+li>a {
+
+	 font-size: 24px;
+
+	 font-family: "Calibri";
+
+	 color: rgb( 68, 68, 68 );
+
+}
+
+.nav li{
+
+	background: url(../img/menuline.png) 0% 50% no-repeat;
+
+}
+
+.nav li:first-child{
+
+	background: none;
+
+}
+
+.navbar .nav li a:hover{
+
+	background:url(../img/menubackt.png) no-repeat center center;
+
+
+}
+
+.knopkakupi{
+
+	left: 445px;
+
+	top: 350px; 
+
+	position: absolute;
+
+	width: 222px;
+
+	height: 73px;
+
+	background: url(../img/knopkakupi.png) 100%;
+
+}
+
+.knopkakupi:hover{
+
+	background: url(../img/knopkakupia.png);
+
+}
+
+.linegor{
+
+	position: absolute;
+
+	background: url(../img/linegor.png);
+
+	width: 595px;
+
+	height: 1px;
+
+	top: 440px;
+
+	left: 77px; 
+
+}
+
+.linevert{
+
+	position: absolute;
+
+	background: url(../img/linevert.png);
+
+	width: 1px;
+
+	height: 566px;
+
+	top: 20px;
+
+	left: 30px;
+
+	left: 5px;
+
+}
+
+.kupi{
+
+	position: absolute;
+
+	background: url(../img/kupi.png);
+
+	width: 262px;
+
+	height: 55px;
+
+	top: 500px;
+
+	left: 45px;
+
+}
+.kupi:hover{
+	background: url(../img/kupia.png);
+}
+.whywe,.why1,.why2,.why3,.why4,.why5{
+
+	height:42px;
+
+}
+
+.whyrow{
+
+	margin-top: 15px;
+
+}
+
+.whyback{
+
+	height: 70px;
+
+	background: url(../img/headerbackground.png) 100% repeat-x;
+
+}
+
+.whywe{
+
+	width: 204px;
+
+	background: url(../img/whywe.png);
+
+}
+
+.why1{
+
+	margin-left: 36px;
+
+	background: url(../img/why1.png);
+
+	width: 141px;
+
+	
+
+}
+
+.why2{
+
+	margin-left: 67px;
+
+	background: url(../img/why2.png);
+
+	width:107px; 
+
+}
+
+.why3{
+
+	margin-left: 63px;
+
+	background: url(../img/why3.png);
+
+	width:135px; 
+
+}
+
+.why4{
+
+	margin-left: 78px;
+
+	background: url(../img/why4.png);
+
+	width:108px; 
+
+}
+
+.why5{
+
+	margin-left: 71px;
+
+	background: url(../img/why5.png);
+
+	width:109px; 
+
+}
+
+.catalogname {
+
+	margin-top: 40px;
+
+	font-size: 30px;
+
+		font-family: "Calibri";
+
+		color: rgb( 98, 39, 16 );
+
+		text-transform: uppercase;
+
+}
+
+.oplataonline{
+
+	margin-left: 20px;
+
+	width: 235px;
+
+	margin-top: 10px;
+
+	background:url(../img/oplataonline.png); 
+
+	height:72px;
+
+}
+
+.oplataonline:hover{
+
+	background:url(../img/oplataonlinea.png);
+
+}
+
+.katline{
+
+	margin-top: 20px;
+
+}
+
+.katline1{
+
+	margin-top: 40px;
+
+}
+
+.towar1,.towar2,.towar3,.towar4{
+
+	position: relative;
+
+	width: 461px;
+
+	height: 279px;
+
+}
+
+
+
+.towar1{
+
+	background: url(../img/towar1.png);
+
+}
+
+.towar2{
+
+	width: 458px;
+
+	background: url(../img/towar2.png);
+
+}
+
+.towar3{
+
+	background: url(../img/towar3.png);
+
+}
+
+.towar4{
+
+	margin-top: 20px;
+
+	width: 450px;
+
+	height: 245px;
+
+	background: url(../img/towar4.png);
+
+}
+
+.kupikat{
+
+	position: absolute;
+
+	width: 260px;
+
+	height: 75px;
+
+	background: url(../img/kupikat.png);
+
+}
+
+.kupikat:hover{
+
+	background: url(../img/kupikata.png);
+
+}
+
+#kupi1{
+
+	top: 200px;
+
+	left: 200px;
+
+}
+
+#kupi2{
+
+	top: 200px;
+
+	left: 200px;
+
+}
+
+#kupi3{
+
+	top: 200px;
+
+	left: 200px;
+
+}
+
+#kupi4{
+
+	top: 175px;
+
+	left: 200px;
+
+}
+
+
+
+.vkatalog{
+
+	display: block;
+
+	margin-top: 20px;
+
+	background: url(../img/vkatalog.png);
+
+	width: 230px;
+
+	height: 41px;
+
+}
+
+.vkatalog:hover{
+
+	background: url(../img/vkataloga.png);
+
+}
+
+.bkg{
+
+	position: relative;
+
+	height: 800px;
+
+}
+
+.nazhmi{
+
+	top: 35px;
+
+	right: -219px;
+
+	position: absolute;
+
+	width:230px;
+
+	height:80px;
+
+	background: url(../img/nazhmi.png) 25% 0% no-repeat;
+
+	
+
+}
+
+.otovare {
+
+		font-size: 30px;
+
+		font-family: "Calibri";
+
+		color: rgb( 255, 255, 255 );
+
+		text-transform: uppercase;
+
+		text-align: left;
+
+}
+
+.opisanie {
+
+	margin-top: 65px;
+
+		font-size: 16px;
+
+		font-family: "Calibri";
+
+		color: rgb( 255, 255, 255 );
+
+		text-align: left;
+
+}
+
+section{
+
+	position: relative;
+
+	margin-top: 30px;
+
+}
+
+embed{
+
+	margin-top: 10px;
+
+}
+
+.strelka{
+	margin-bottom: 20px;
+
+	width: 459px;
+
+	height: 48px;
+
+	background: url(../img/strelka.png);
+
+}
+
+.backgroundpres1{
+
+	position: relative;
+
+	height: 450px;
+
+	background: url(../img/presentbck.png) no-repeat center center fixed;
+
+	-webkit-background-size: cover;
+
+	-moz-background-size: cover;
+
+	-o-background-size: cover;
+
+	background-size: cover;
+
+	padding-left: 0px;
+
+	padding-right: 0px;
+
+}
+.podrobnee{
+
+	top: 350px;
+
+	right:0px;
+
+	position: absolute;
+
+	width:145px;
+
+	height:51px;
+
+	background: url(../img/podrobnee.png);
+
+}
+.podrobnee>a{
+	display: block;
+	height:51px;
+}
+.podrobnee:hover{
+
+	background: url(../img/podrobneea.png);
+
+}
+
+.kupimi{
+
+	position: absolute;
+
+	background: url(../img/kupimi.png);
+
+	width: 281px;
+
+	height: 310px;
+
+	bottom: -37px;
+
+	left: -338px;
+
+}
+
+.backgroundpres2{
+
+	position: relative;
+
+	height: 250px;
+
+	padding-left: 0px;
+
+	padding-right: 0px;
+
+}
+
+.formazag{
+
+	margin-top: 40px;
+
+		font-size: 30px;
+
+		font-family: "Calibri";
+
+		color: rgb( 98, 39, 16 );
+
+		text-transform: uppercase;
+
+		text-align: left;
+
+}
+
+.text>input[value]{
+
+	line-height: 50px !important;
+
+}
+
+.text{
+
+	margin-top: 10px;
+
+	font-size: 30px !important;
+
+		font-family: "Calibri"!important;
+
+		color: rgb( 98, 39, 16 )!important;
+
+		text-transform: uppercase!important;
+
+		text-align: left!important;
+
+	border: none !important;
+
+	box-shadow: none !important;
+
+	width: 366px;
+
+	height: 50px !important;
+
+	background: url(../img/input.png);
+
+}
+
+.text:focus{
+
+	border: none!important;
+
+}
+
+.button{
+
+	margin-left: 30px;
+
+	border: none;
+
+	width: 306px !important;
+
+	height: 64px;
+
+	background: url(../img/button.png);
+
+}
+.button:hover{
+	background: url(../img/buttona.png);
+}
+.forma{
+
+	margin-top: 20px;
+
+}
+
+.podpisform{
+
+	margin-left: -20px;
+
+	margin-top: 115px;
+
+	width:201px;
+
+	height:52px;
+
+	background: url(../img/podpisform.png);
+
+}
+
+.zakazhizvon{
+
+	margin-top: 30px;
+
+	right: -200px;
+
+	position: absolute;
+
+	width: 156px;
+
+	height: 220px;
+
+	background: url(../img/zakazhizvon.png);
+
+}
+
+.backgroundpres3{
+
+	position: relative;
+
+	height: 450px;
+
+	background: url(../img/presentbck.png) no-repeat center center fixed;
+
+	-webkit-background-size: cover;
+
+	-moz-background-size: cover;
+
+	-o-background-size: cover;
+
+	background-size: cover;
+
+	padding-left: 0px;
+
+	padding-right: 0px;
+
+}
+
+.what h2 {
+
+	margin-top: 30px;
+
+		font-size: 30px;
+
+		font-family: "Calibri";
+
+		color: rgb( 255, 255, 255 );
+
+		text-transform: uppercase;
+
+		text-align: left;
+
+}
+
+.otziv{
+	position: relative;
+	background: url(../img/otzivwrap.png);
+	margin-top: 30px;
+
+	width:460px;
+
+	height:185px;
+
+}
+.otziv1{
+	position: relative;
+	background: url(../img/otzivwrap1.png);
+	margin-top: 30px;
+
+	width:461px;
+
+	height:186px;
+
+}
+
+#one{
+
+}
+
+.allotziv{
+	background: url(../img/allotziv.png);
+	display: block;
+	margin-left: 5px;
+
+	margin-top: 20px;
+
+	width: 225px;
+
+	height: 48px;
+
+
+}
+
+.otzivhom{
+
+	bottom: -86px;
+
+	left: -277px;
+
+	position: absolute;
+
+	width: 195px;
+
+	height: 300px;
+
+	background: url(../img/otzivhom.png);
+
+}
+
+
+
+.backgroundpres4{
+
+	position: relative;
+
+	height: 600px;
+
+	padding-left: 0px;
+
+	padding-right: 0px;
+
+}
+
+.pochemu{
+
+	margin-top: 40px;
+
+	width:930px;
+
+	height:404px;
+
+	background: url(../img/pochemu.png);
+
+}
+
+.zagpoch{
+
+	margin-top:30px; 
+
+		font-size: 30px;
+
+		font-family: "Calibri";
+
+	color: rgb( 98, 39, 16 );
+
+		text-transform: uppercase;
+
+		text-align: left;
+
+}
+
+.button2{
+
+	bottom:-7px;
+
+	left: 105px;
+
+	position: absolute;
+
+	width: 226px;
+
+	height: 77px;
+
+	background:url(../img/button2.png); 
+
+}
+
+.rel{
+
+	position: relative;
+
+}
+
+.button2:hover{
+
+	background:url(../img/button2a.png);
+
+}
+
+.backgroundpres5{
+
+	background: url(../img/headerbackground.png) repeat 100%;
+
+	height: 400px;
+
+	position: relative;
+
+	padding-left: 0px !important;
+
+	padding-right: 0px !important;
+
+}
+
+.garantia2{
+
+	margin-top: 28px;
+
+	background:url(../img/garantia.png);
+
+	height:99px;
+
+	width: 302px; 
+
+}
+
+.dostavka2{
+
+	margin-left: 50px;
+
+	background: url(../img/dostavka2.png);
+
+	width:268px;
+
+	height: 134px;
+
+}
+
+.oplata2{
+
+	margin-left: 50px;
+
+	margin-top: 35px;
+
+	background: url(../img/oplata.png);
+
+	width: 275px;
+
+	height: 77px;
+
+}
+
+.linerow{
+
+	margin-top: 40px;
+
+}
+
+.footerline{
+
+	margin-bottom: 20px;
+
+	height: 1px;
+
+	background:#666666;
+
+	margin-top: 20px;
+
+	margin-left: 0px !important;
+
+}
+
+.logofooter{
+
+	background: url(../img/logofooter.png);
+
+	width: 213px;
+
+	height: 125px;
+
+}
+
+.menu2{
+
+	margin-bottom: 0px;
+
+	margin-left: 0px;
+
+	margin-top:8px; 
+
+	width: 100px;
+
+	list-style-type:none;
+
+}
+
+.menu2>li>a{
+
+		font-size: 13px !important;
+
+		font-family: "Trebuchet MS" !important;
+
+		color:#FFFFFF !important;
+
+		text-decoration: none !important;
+
+		text-transform: uppercase !important;
+
+		line-height: 1.846 !important;
+
+}
+
+.menu2>li>a:hover{
+
+	text-decoration:underline !important;
+
+	color:#FFCC00 !important;
+
+}
+
+.operator{
+
+		font-size: 12px;
+
+		font-family: "Trebuchet MS";
+
+	color: rgb( 255, 255, 255 );
+
+	font-style: italic;
+
+		text-align: left;
+
+	margin-left: 0;
+
+}
+
+.number2{
+
+	margin-left: 30px;
+
+	width: 320px;
+
+	position: relative;
+
+	margin-top: 20px;
+
+		font-size: 45px !important;
+
+		font-family: "Trebuchet MS";
+
+		color: rgb( 255, 255, 255 );
+
+		text-transform: uppercase;
+
+		text-align: left;
+
+}
+
+#number2{
+
+	font-size: 35px;
+
+	line-height: 10px !important;
+
+}
+
+.job{
+
+	margin-left: 120px;
+
+	font-size: 15px !important;
+
+		font-family: "Trebuchet MS";
+
+		color: rgb( 255, 255, 255 );
+
+		text-transform: uppercase;
+
+}
+
+.edit{
+
+	margin-left: 207px;
+
+}
+
+.num{
+
+	width: 350px;
+
+}
+
+.edit2{
+
+	position: relative;
+
+}
+
+.ksuha{
+
+	left: 319px;
+
+	bottom: -24px;
+
+	position: absolute;
+
+	width: 159px;
+
+	height: 178px;
+
+	background: url(../img/ksuha.png);
+
+}
+
+.form2{
+
+	margin-left: 96px;
+
+}
+
+.forma2{
+
+	margin-top: 12px;
+
+	height: 33px !important;
+
+	width: 230px;
+
+	background: url(../img/formbkg2.png)!important;
+
+	border: none !important;
+
+}
+
+.forma2[value]{
+
+	font-size: 18px !important;
+
+		font-family: "Trebuchet MS" !important;
+
+		color: rgb( 68, 68, 68 )!important;
+
+		text-align: left !important;
+
+		line-height: 20px !important;
+
+}
+
+.submit2{
+
+	border: none !important;
+
+	background: url(../img/submit.png);
+
+	width: 150px !important;
+
+	height: 45px;
+
+}
+
+.forma2:focus{
+
+	box-shadow: none !important;
+
+	border: none;
+
+}
+
+.submit2:hover{
+
+	background: url(../img/submita.png);
+
+}
+
+
+
+.backgroundpres3 .span6{
+
+	margin-left:0;
+
+}
+
+
+
+.container-fluid{
+
+min-width:1349px;
+
+padding:0;
+
+overflow: hidden;
+
+}
+
+
+
+.container{
+
+	position:relative;
+
+}
+
+.contacts{
+
+	height: 350px;
+
+}
+
+.cont{
+
+	font-weight: normal;
+
+		font-size: 30px;
+
+		font-family: "Calibri";
+
+		color: rgb( 98, 39, 16 );
+
+		text-transform: uppercase;
+
+		text-align: left;
+
+}
+
+.cont1{
+
+		font-size: 18px;
+
+		font-family: "Calibri";
+
+		color: rgb( 68, 68, 68 );
+
+}
+
+.cont4{
+
+	margin-bottom: 0px;
+
+	font-size: 30px;
+
+	font-family: "Calibri";
+
+	color: rgb( 98, 39, 16 );
+
+}
+
+.cont3{
+
+	vertical-align: 8px;
+
+		font-size: 16px;
+
+		font-family: "Calibri";
+
+		color: rgb( 98, 39, 16 );
+
+}
+
+.cont5{
+
+		font-size: 15px;
+
+	font-family: "Calibri";
+
+	color: rgb( 68, 68, 68 );
+
+}
+
+.cont6, .cont7{
+
+		margin-bottom:0px; 
+
+		margin-right: 25px;
+
+		font-size: 18px;
+
+		font-family: "Calibri";
+
+		color: rgb( 68, 68, 68 );
+
+		text-align: center;
+
+}
+
+.cont7{
+
+	font-weight: bold;
+
+}
+
+.knopka4{
+
+	top: 220px;
+
+	left: 15px;
+
+	position: absolute;
+
+	margin-right: 30px;
+
+	width: 196px;
+
+	height: 53px;
+
+	background: url(../img/knopkazvonoka1.png);
+
+}
+
+.edit3{
+
+	margin-left: 50px;
+
+}
+
+.knopka4:hover{
+
+	background: url(../img/knopkazvonoka1a.png) no-repeat;
+
+}
+.backgroundpres1o{
+	position: relative;
+	height: 1100px;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	padding-left: 0px;
+	padding-right: 0px;
+}
+.superhomyak{
+	margin: auto;
+	position: relative;
+	width: 435px;
+	height: 340px;
+	background: url(../img/superhomyak.png);
+}
+.superhomyakknop{
+	left: 170px;
+	top: 260px;
+	background: url(../img/superhomyakkupi.png);
+	position: absolute;
+	width: 260px;
+	height: 70px;
+}
+.superhomyakknop:hover{
+	background: url(../img/superhomyakkupia.png);
+}
+.opisaniet{
+		font-size: 16px;
+		font-family: "Calibri";
+		color: rgb( 70, 70, 70 );
+}
+#right{
+		margin-top: 66px;
+}
+.otovare1{
+		font-weight: normal;
+		font-size: 30px;
+		font-family: "Calibri";
+		color: rgb( 87, 43, 25 );
+		text-transform: uppercase;
+		text-align: left;
+}
+.backgroundpres3a{
+		position: relative;
+		height: 950px;
+		-webkit-background-size: cover;
+		-moz-background-size: cover;
+		-o-background-size: cover;
+		background-size: cover;
+		padding-left: 0px;
+		padding-right: 0px;
+}
+.onas{
+		font-weight: normal !important;
+  	font-size: 30px !important;
+  	font-family: "Calibri" !important;
+  	color: rgb( 98, 39, 16 ) !important;
+}
+.photo{
+		margin-top: -30px;
+		margin-left: 20px;
+		float: left; 
+		background: url(../img/photo.png);
+		width:142px;
+		height:180px;
+}
+.name{
+		line-height: 36px;
+		text-align: right;
+  	font-size: 30px;
+  	font-family: "Myriad Pro";
+  	color: rgb( 115, 51, 22 );
+  	font-style: italic;
+}
+
+
+.city{
+		font-weight:bold; 
+		text-align: right;
+  	font-size: 20px;
+  	font-family: "Myriad Pro";
+  	color:#999999;
+  	font-style: italic;
+}
+.otzivtxt{
+		float:left; 
+		width: 270px;
+		margin-right:20px; 
+}
+.otzivtxt1{
+		float:left; 
+		width: 279px;
+		margin-right:20px;
+}
+#text{
+		margin-left: 8px;
+		line-height:15px; 
+		font-size: 15px;
+  	color:#666666;
+}
+.otzivtxt>a{
+		text-align: right;
+}
+.photo1{
+		margin-top: -30px;
+		margin-left: 20px;
+		float: left; 
+		background: url(../img/photo2.png);
+		width:142px;
+		height:180px;
+}
+.photo2{
+		margin-top: -30px;
+		margin-left: 20px;
+		float: left; 
+		background: url(../img/photo3.png);
+		width:142px;
+		height:180px;
+}
+.photo3{
+		margin-top: -30px;
+		margin-left: 20px;
+		float: left; 
+		background: url(../img/photo4.png);
+		width:142px;
+		height:180px;
+}
+.photo4{
+		margin-top: -30px;
+		margin-left: 20px;
+		float: left; 
+		background: url(../img/photo5.png);
+		width:142px;
+		height:180px;
+}
+.allotziv>a{
+	display: block;
+	height: 48px;
+}
+.allotziv:hover{
+	background: url(../img/allotziva.png);
+}
+.otziv1{
+	border: 1px black;
+}
+.off{
+	margin-top: 30px;
+	margin-bottom: 20px;
+
+}
+#text1{
+	margin-top: -7px;
+}
+.tests{
+	background: red;
+}

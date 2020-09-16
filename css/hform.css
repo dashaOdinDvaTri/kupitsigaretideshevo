@@ -1,0 +1,209 @@
+.ten {
+	display: none;
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background-color: rgba(255,255,255,0.8);
+	z-index: 10;
+}
+
+.zzokno{
+	border-radius: 10px;
+	background-color: #f8feeb;
+	position: fixed;
+	left: 50%;
+	top: 50%;
+	margin:-153px 0 0 -240px; 
+	width: 480px;
+	height: 306px;
+	z-index: 100;	
+	display:none;
+}
+
+.zzokno p{
+	margin-top:3px;
+}
+
+.form_okno{
+	padding: 25px 34px;
+}
+
+.form_zag{
+	font-size: 25px;
+	font-family: "Calibri";
+	color: rgb( 98, 39, 16 );
+	font-weight: bold;
+	margin-bottom: 15px;
+}
+
+.form_pretext{
+	font-size: 16px;
+	font-family: "Calibri";
+	color: rgb( 1, 1, 1 );
+	  font-style: italic;
+}
+
+.form_podtext{
+	font-size: 18px;
+	font-family: "Calibri";
+	color: rgb( 0, 0, 0 );
+}
+
+.tel_form {
+	border-style: solid;
+	border-width: 1px;
+	border-color: rgb( 210, 217, 220 );
+	border-radius: 10px;
+	background-color: rgb( 245, 245, 245 );
+	width: 397px;
+	height: 54px;
+	font-size: 20px;
+	font-family: "Calibri";
+	color: rgb( 69, 69, 69 );
+	font-weight: bold;
+	line-height: 1.2;
+}
+
+.form_okno .form_but{
+	border-style: solid;
+	border-width: 1px;
+	border-color: rgb( 243, 151, 48 );
+	border-radius: 10px;
+	background-image: -moz-linear-gradient( 90deg, rgb( 252, 180, 29 ) 0%, rgb( 255, 160, 41 ) 48.999%, rgb( 252, 183, 54 ) 50.513%, rgb( 254, 213, 41 ) 100%);
+	background-image: -webkit-linear-gradient( 90deg, rgb( 252, 180, 29 ) 0%, rgb( 255, 160, 41 ) 48.999%, rgb( 252, 183, 54 ) 50.513%, rgb( 254, 213, 41 ) 100%);
+	background-image: -ms-linear-gradient( 90deg, rgb( 252, 180, 29 ) 0%, rgb( 255, 160, 41 ) 48.999%, rgb( 252, 183, 54 ) 50.513%, rgb( 254, 213, 41 ) 100%);
+	box-shadow: 0px 0px 3px 1px rgb( 0, 0, 0 );
+	width: 105px;
+	height: 43px;
+	margin: 28px 0 0 305px;
+}
+
+.form_close{
+	position: absolute;
+	height: 19px;
+	width: 19px;
+	top: 10px;
+	right: 10px;
+	background: url('../img/form_close.png') 0 0 no-repeat;
+}
+
+.timer{
+	position: absolute;
+	top: 408px;
+	width: 234px;
+	background-color: rgba(0, 0, 0, 0.7);
+	padding: 0 0 8px 0;
+	left: 58px;
+	border-radius: 10px;
+}
+
+.timer .countdown_amount{
+	font-size: 30px;
+	display: inline-block;
+	line-height: 50px;
+	padding: 0px 5px 0px 5px;
+	border-radius: 8px;
+	color: #fff;
+}
+
+.timer .countdown_section{
+	font-size: 15px;
+	color:#fff;
+}
+
+.viboropl{  
+	border-radius: 10px;
+	background-color: #f8feeb;
+	position: fixed;
+	left: 50%;
+	top: 50%;
+	margin: -239px 0 0 -205px;
+	width: 478px;
+	height: 411px;
+	display:none;
+	z-index:100;
+}
+
+.viboropl label{
+	width: 354px;
+	padding: 1px 0 0 23px;
+}
+
+input[type="radio"]{
+	float:left;
+}
+
+.viboropl textarea{
+  border-style: solid;
+  border-width: 1px;
+  border-color: rgb( 210, 217, 220 );
+  border-radius: 10px;
+  background-color: rgb( 245, 245, 245 );
+  width: 381px;
+  height: 88px;
+  margin-bottom:30px;
+}
+
+.viboropl .fform_podtext{
+ margin-bottom:30px;	
+}
+
+.red{
+color:red;
+}
+
+.mb0{
+margin-bottom:0;
+}
+
+.nch{
+	text-decoration:underline;
+}
+
+.onlineopl{
+	border-radius: 10px;
+	background-color: #f8feeb;
+	position: fixed;
+	left: 50%;
+	top: 50%;
+	margin:-239px 0 0 -205px;
+	width: 478px;
+	height: 411px;
+	z-index: 100;
+	display:none;
+}
+
+.form_okno input[type="button"]{
+  font-size: 25px;
+  font-family: "Calibri";
+  color: rgb( 69, 69, 69 );
+  font-weight: bold;
+  text-shadow: 1px 1px 2px rgb( 255, 255, 255 );
+}
+
+.mb30{
+	margin-bottom:30px;
+}
+
+.form_okno .frmdlyatel{
+  border-style: solid;
+  border-width: 1px;
+  border-color: rgb( 210, 217, 220 );
+  border-radius: 10px;
+  background-color: rgb( 245, 245, 245 );
+  width: 243px;
+  height: 36px !important;
+  font-size: 25px;
+  font-family: "Myriad Pro";
+  color: rgb( 69, 69, 69 );
+  font-weight: bold;
+}
+
+.onlineopl .form_okno .form_but.ss{
+margin: -10px 0 0 0;
+font-size: 17px;
+width: 149px;
+height: 35px;
+}
